@@ -1,5 +1,5 @@
 # AI-Color-Palette-Generator
-Free online AI Color Palette Generator from text, names, image or hex codes. Includes themes, harmony modes, color blindness simulation, wcag accessibility testing and image exports.
+Free online AI Color Palette Generator from text, names, image or hex codes. Generate Color Schemes and Combinations from themes, harmony modes, color blindness simulation, wcag accessibility testing and image exports.
 
 AI Color Palette Generator is a free online tool that creates structured, production-ready color systems from text prompts, images, hex codes, or color names.
 
